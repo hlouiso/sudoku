@@ -1,6 +1,6 @@
 # Sudoku (C)
 
-A small **generalized Sudoku solver** written in C. Built as part of my **Master’s in Cryptology & Computer Security at the University of Bordeaux**—it was also my first time learning C, so the code favors clarity over clever tricks. The project is intentionally minimal and easy to compile/run.
+A **generalized Sudoku solver** written in C. Built as part of my **Master’s in Cryptology & Computer Security at the University of Bordeaux**—it was also my first time learning C, so the code favors clarity over clever tricks. The project is intentionally minimal and easy to compile/run.
 
 ## Features
 - Solves classic 9×9 and other sizes supported by the code.
